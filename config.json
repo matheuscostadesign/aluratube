@@ -1,0 +1,31 @@
+{
+  "name": "Matheus Costa",
+  "description": "Dev. Front-end | UX/UI Designer",
+  "github": "matheuscostadesign",
+  "playlists": {
+    "front-end": [
+      {
+        "title": "Criando um Flappy Bird do ZERO 1!!!",
+        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+      },
+      {
+        "title": "Criando um Flappy Bird do ZERO 2!!!",
+        "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+        "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+      }
+    ],
+    "back-end": [
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON 1",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+      },
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON 2",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+      }
+    ]
+  }
+}
