@@ -2,20 +2,31 @@
   "name": "Matheus Costa",
   "description": "Dev. Front-end | UX/UI Designer",
   "github": "matheuscostadesign",
+  "banner": "Im7lZjxeLhg",
   "playlists": {
     "front-end": [
       {
-        "title": "Criando um Flappy Bird do ZERO 1!!!",
-        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+        "title": "React em 1h - Componentes - Iniciantes",
+        "url": "https://www.youtube.com/watch?v=K65wUN-2no4",
+        "thumb": "https://img.youtube.com/vi/K65wUN-2no4/hqdefault.jpg"
       },
       {
-        "title": "Criando um Flappy Bird do ZERO 2!!!",
-        "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-        "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+        "title": "Como fazer commits atômicos pelo VSCode",
+        "url": "https://www.youtube.com/watch?v=NpTF7HsuG5U",
+        "thumb": "https://img.youtube.com/vi/NpTF7HsuG5U/hqdefault.jpg"
+      },
+      {
+        "title": "DESCOMPLICANDO o CSS Flexbox",
+        "url": "https://www.youtube.com/watch?v=gOMK_xruAqc",
+        "thumb": "https://img.youtube.com/vi/gOMK_xruAqc/hqdefault.jpg"
+      },
+      {
+        "title": "Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]",
+        "url": "https://www.youtube.com/watch?v=EW7m2WIvFgQ",
+        "thumb": "https://img.youtube.com/vi/EW7m2WIvFgQ/hqdefault.jpg"
       }
     ],
-    "back-end": [
+    "design": [
       {
         "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON 1",
         "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
@@ -27,5 +38,17 @@
         "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
       }
     ]
-  }
+  },
+  "favoritos": [
+    {
+      "title": "@canal1",
+      "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+      "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+    },
+    {
+      "title": "@canal2",
+      "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+      "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+    }
+  ]
 }
